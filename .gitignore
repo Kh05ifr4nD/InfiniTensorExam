@@ -1,1 +1,10 @@
-target
+.DS_Store
+/.idea/
+desktop.ini
+
+*.rs.bk
+/Cargo.lock
+/target/
+
+/.direnv/
+/result
